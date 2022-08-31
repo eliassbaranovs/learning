@@ -5,7 +5,7 @@ export const cart = [];
 //Top level await blocking the rest of the code before it finishes
 //Blocking code (blocks the rest of the code from running in script.js before it  is finished)
 /*
-console.log('Start fethcing');
+console.log('Start fetch');
 await fetch('https://jsonplaceholder.typicode.com/users');
 console.log('Finished fetching data');
 */
